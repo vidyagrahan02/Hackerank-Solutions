@@ -1,8 +1,6 @@
 # ========================
 #       Information
 # ========================
-
-# Direct Link: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 # Difficulty: Easy
 # Max Score: 10
 # Language: Python
