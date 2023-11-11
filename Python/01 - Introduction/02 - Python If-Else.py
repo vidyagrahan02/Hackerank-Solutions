@@ -1,8 +1,3 @@
-# ========================
-#       Information
-# ========================
-
-# Direct Link: https://www.hackerrank.com/challenges/py-if-else/problem
 # Difficulty: Easy
 # Max Score: 10
 # Language: Python
